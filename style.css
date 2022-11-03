@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body{
+    text-align: center;
+}
+
+button{
+    font-size: 80px;
+    background-color: antiquewhite;
+    color: rgb(40, 2, 2);
+}
+
+span{
+    font-size: 60px;
+}
+
+div{
+    font-size: 80px;
+}
+
+p{
+    font-size: 40px;
+}
+
+
